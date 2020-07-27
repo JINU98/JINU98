@@ -24,7 +24,7 @@ My skills includes React, Node.js, Django, python,flask.
 
 ### Deployed Projects
 [1) Precision Based Agriculture and Horticulture](https://precfarm.herokuapp.com/) <br>
-[2) Facail Keypoints Detection](https://facekey.herokuapp.com/) <br>
+[2) Facial Keypoints Detection](https://facekey.herokuapp.com/) <br>
 [3) Data Dashboard using Streamlit](https://jinu-dashboard.herokuapp.com/) <br>
 [4) Mnist Data Neural Network Visualization](https://jinu-mnist-net.herokuapp.com/)
 
