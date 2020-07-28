@@ -23,8 +23,8 @@ I am also deeply interested in applications of Artificial Intelligence how it ch
 My skills includes React, Node.js, Django, python,flask.
 
 ### Deployed Projects
-[1) Precision Based Agriculture and Horticulture](https://precfarm.herokuapp.com/) <br>
-[2) Facial Keypoints Detection](https://facekey.herokuapp.com/) <br>
-[3) Data Dashboard using Streamlit](https://jinu-dashboard.herokuapp.com/) <br>
-[4) Mnist Data Neural Network Visualization](https://jinu-mnist-net.herokuapp.com/)
+* [Precision Based Agriculture and Horticulture](https://precfarm.herokuapp.com/) <br>
+* [Facial Keypoints Detection](https://facekey.herokuapp.com/) <br>
+* [Data Dashboard using Streamlit](https://jinu-dashboard.herokuapp.com/) <br>
+* [Mnist Data Neural Network Visualization](https://jinu-mnist-net.herokuapp.com/)
 
