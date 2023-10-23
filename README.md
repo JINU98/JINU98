@@ -45,6 +45,7 @@ I'm always excited to connect with fellow data enthusiasts, researchers, and pro
 📧 Contact:
 
 📧 Email: jinendramalekar@gmail.com
+
 🌐 LinkedIn:  https://www.linkedin.com/in/jinu98/
 
 Let's unlock the potential of data together and create a smarter, more connected future. 🚀 #DataScience #MachineLearning #Research #AI #DataDrivenDecisions
