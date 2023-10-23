@@ -43,6 +43,7 @@ I'm a strong advocate for knowledge sharing and collaborative learning. I active
 I'm always excited to connect with fellow data enthusiasts, researchers, and professionals. Whether you're interested in discussing the latest trends in AI or collaborating on a project, feel free to connect with me. Let's embark on a data-driven journey together!
 
 📧 Contact:
+
 📧 Email: jinendramalekar@gmail.com
 🌐 LinkedIn:  https://www.linkedin.com/in/jinu98/
 
