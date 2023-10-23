@@ -18,6 +18,7 @@ Predictive modeling and AI
 Data visualization
 
 🛠 Skills:
+
 👩‍💻 Programming: Python, R, Java
 🔢 Tools: TensorFlow, PyTorch, Scikit-Learn
 📊 Data Analysis: Pandas, NumPy
@@ -26,15 +27,19 @@ Data visualization
 📜 Database: SQL, NoSQL (MongoDB)
 
 🏢 Professional Experience:
+
 I have had the privilege of working on groundbreaking projects at the Artificial Intelligence Institute of South Carolina, where I've harnessed the power of data and machine learning to drive actionable insights. My work has ranged from developing predictive models that enhance decision-making to deploying intelligent data-driven solutions that optimize business processes.
 
 🔍 Research & Publications:
+
 I've contributed to the academic community with publications in leading journals and conferences. My research has focused on Explainable AI models in the Mental health domain, and I've had the privilege of presenting my work at AAAI.
 
 🌐 Open Source & Community Engagement:
+
 I'm a strong advocate for knowledge sharing and collaborative learning. I actively contribute to open-source projects and mentor aspiring data scientists and machine-learning enthusiasts through workshops and webinars. Giving back to the community is an integral part of my journey.
 
 💬 Let's Connect:
+
 I'm always excited to connect with fellow data enthusiasts, researchers, and professionals. Whether you're interested in discussing the latest trends in AI or collaborating on a project, feel free to connect with me. Let's embark on a data-driven journey together!
 
 📧 Contact:
