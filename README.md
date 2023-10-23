@@ -6,7 +6,7 @@ I'm a passionate Data Science and Machine Learning researcher with a relentless 
 
 🎓 Education
 🎓Bachelors in Computer Science,International Institute of Information Technology, Naya Raipur
-🎓 M.Sc. in Computer Science, [Your University]
+🎓 M.Sc. in Computer Science, University of South Carolina
 
 🧠 Expertise:
 
