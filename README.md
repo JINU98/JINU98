@@ -7,17 +7,24 @@ I'm a passionate Data Science and Machine Learning researcher with a relentless 
 
 🎓 Education
 
+
 🎓Bachelors in Computer Science,International Institute of Information Technology, Naya Raipur
+
 🎓 M.Sc. in Computer Science, University of South Carolina
 
 🛠 Skills:
 
 
 👩‍💻 Programming: Python, R, Java
+
 🔢 Tools: TensorFlow, PyTorch, Scikit-Learn
+
 📊 Data Analysis: Pandas, NumPy
+
 📈 Data Visualization: Matplotlib, Seaborn
+
 🐍 Web Development: Django, Flask
+
 📜 Database: SQL, NoSQL (MongoDB)
 
 📧 Contact:
