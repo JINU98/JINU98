@@ -1,9 +1,6 @@
 
-🔬 Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Researcher
+🔬  📊 Researcher
 
-🌟 About Me:
-
-I'm a passionate Data Science and Machine Learning researcher with a relentless curiosity for solving complex problems and uncovering insights within data. My journey in the world of data began with a fascination for the endless possibilities that data can offer in improving decision-making, automating processes, and driving innovation.
 
 🎓 Education
 
