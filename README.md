@@ -45,16 +45,6 @@ projection and attention components on heterogeneous hardware.
 
 ---
 
-### **Accelerating 1-Bit LLMs via In-Memory Computing Architectures**  
-**J. Malekar et al.**  
-*MWCAS Main Proceedings, 2025*  
-🔗 [arXiv](https://arxiv.org/abs/2504.01994)
-
-> Hybrid analog–digital PIM accelerator for 1-bit and ternary LLMs with significant gains in throughput
-and energy efficiency.
----
-
-
 ## 📬 Contact & Links
 
 - 📧 Email: [jmalekar@email.sc.edu](mailto:jmalekar@email.sc.edu)
