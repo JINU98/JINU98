@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-<img src="./jinu.jpg" alt="Profile" width="150" align="right" style="border-radius:10px;"/>
+
 
 I am a PhD student in Computer Engineering at the **University of South Carolina**, working in the  
 **ICAS Lab** with **Prof. Ramtin Zand**.
