@@ -18,7 +18,6 @@ My research focuses on making **Large Language Models (LLMs)** efficient, scalab
 I work at the intersection of:
 
 - 🔢 **Extreme quantization** (1–2 bit LLMs)
-- 🧮 **Processing-in-Memory (PIM) architectures**
 - ⚙️ **Heterogeneous hardware** (Edge TPUs, GPUs, Raspberry Pi, custom accelerators)
 
 ---
